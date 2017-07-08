@@ -1,2 +1,2 @@
-# CTCI
-Solutions for Cracking the Coding Interview 6th Edition
+# Interview Prep
+General Interview Prep
